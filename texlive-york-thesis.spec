@@ -52,3 +52,16 @@ file now implements the changes made in Spring 2005.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 3.6-2
++ Revision: 757745
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 3.6-1
++ Revision: 719966
+- texlive-york-thesis
+- texlive-york-thesis
+- texlive-york-thesis
+
