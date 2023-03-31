@@ -1,6 +1,6 @@
 Name:		texlive-york-thesis
 Version:	23348
-Release:	1
+Release:	2
 Summary:	A thesis class file for York University, Toronto
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/york-thesis
