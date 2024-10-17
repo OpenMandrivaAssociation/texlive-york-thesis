@@ -3,7 +3,7 @@ Version:	23348
 Release:	2
 Summary:	A thesis class file for York University, Toronto
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/york-thesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/york-thesis
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/york-thesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/york-thesis.doc.r%{version}.tar.xz
